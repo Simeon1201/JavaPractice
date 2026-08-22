@@ -9,7 +9,7 @@ public class JavaTest1 {
         int sumOfEvens = Arrays.stream(numbers)
                 .filter(n -> n % 2 == 0)
                 .sum();
-    
+    //
         System.out.println("Sum of even numbers: " + sumOfEvens);
     }
 
