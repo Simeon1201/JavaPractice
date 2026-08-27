@@ -1,7 +1,8 @@
 import java.util.Arrays;
 
 public class JavaTest1 {
-    public static void main() {
+
+    public static void main(String[] args) {
         System.out.println("testing stream");
         
         int[] numbers = {2, 3, 12, 1, 5, 6, 17, 8, 13, 21};
