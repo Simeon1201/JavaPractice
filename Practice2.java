@@ -4,6 +4,5 @@ public class Practice2 {
         String name = "Human";
         System.out.println(name);
         // System.out.println();
-
     }
 }
