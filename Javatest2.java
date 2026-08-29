@@ -13,7 +13,6 @@ public class Javatest2 {
     }
 
 
-
 class Node<T extends Comparable<T>> {
     T data;
     Node<T> left;
