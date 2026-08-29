@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class JavaTest1 {
+public class Streams1 {
 
     public static void main(String[] args) {
         System.out.println("testing stream");

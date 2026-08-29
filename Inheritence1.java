@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class JavaPractice3 {
+public class Inheritence1 {
 
     public static void main(String[] args){
         List<Human> students = new ArrayList<Human>();

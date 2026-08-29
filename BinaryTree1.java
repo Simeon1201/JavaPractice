@@ -1,4 +1,4 @@
-public class Javatest2 {
+public class BinaryTree1 {
     public static void main(String[] args) {
         BinaryTree<Integer> intTree = new BinaryTree<>();
         int[] values = {50, 30, 70, 20, 40, 60, 80};
