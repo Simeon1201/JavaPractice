@@ -72,4 +72,3 @@ class BinaryTree<T extends Comparable<T>> {
         return cmp < 0 ? searchRec(root.left, data) : searchRec(root.right, data);
     }
 }
-
